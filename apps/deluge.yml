@@ -15,7 +15,7 @@
         pgrole: 'deluge'
         intport: '8112'
         extport: '8112'
-        image: 'linuxserver/deluge:5b398f77-ls22'
+        image: 'linuxserver/deluge:145'
 
     # CORE (MANDATORY) ############################################################
     - name: 'Including cron job'
